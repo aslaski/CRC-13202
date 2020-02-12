@@ -1,2 +1,1 @@
-foo1
-new-branch
+another commit from new-branch
